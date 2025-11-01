@@ -1,0 +1,1 @@
+# obsidian_notebook_navigator_profiles
