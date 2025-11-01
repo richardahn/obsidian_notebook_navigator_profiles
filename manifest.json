@@ -1,0 +1,10 @@
+{
+  "id": "notebook-navigator-profiles",
+  "name": "Notebook Navigator Profiles",
+  "version": "0.1.0",
+  "minAppVersion": "1.10.2",
+  "description": "Create, manage, and activate Notebook Navigator configuration profiles.",
+  "author": "Richard",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,9 @@
+node_modules/
+main.js
+main.js.map
+build/
+dist/
+data.json
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

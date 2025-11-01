@@ -1,0 +1,24 @@
+{
+  "name": "notebook-navigator-profiles",
+  "version": "0.1.0",
+  "description": "Create, manage, and activate Notebook Navigator configuration profiles.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs --watch",
+    "build": "node esbuild.config.mjs"
+  },
+  "keywords": [
+    "obsidian-plugin",
+    "notebook-navigator",
+    "profiles"
+  ],
+  "author": "Richard",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.17.17",
+    "esbuild": "^0.19.2",
+    "obsidian": "^1.4.1",
+    "tslib": "^2.6.2",
+    "typescript": "^5.2.2"
+  }
+}
